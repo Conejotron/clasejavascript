@@ -1,0 +1,19 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Sansita');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+@import url('https://fonts.googleapis.com/css?family=Nova+Mono');
+
+body h3 {
+    font-family: 'Sansita', sans-serif;
+}
+
+body p {
+    font-family: 'PT Sans', sans-serif;
+}
+
+#generado {
+    background-color: #EEEEEE;
+    color: #000000;
+    font-family: 'Nova Mono', monospace;
+}
