@@ -120,6 +120,11 @@ function SaldoInsoluto () {
   return insoluto
 }
 
+var simular = document.getElementById("simular");
+simular.addEventListener("click", function simularPrestamo() {
+	//simular prestamo
+}, false);
+
 function simularPrestamo () {
   establecerDatos()
   PagoMensual()
